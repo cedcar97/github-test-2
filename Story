@@ -2,6 +2,6 @@ La Tour Eiffel
 musculeux
 et content
 mange
-loup
-herbe
-Pologne
+un loup
+herbivore
+en Pologne
